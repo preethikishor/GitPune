@@ -6,11 +6,15 @@ public class Test {
 
 
 		
-		System.out.println("addition of two numbers A and B is +sumaa");
+
+		
+	
+		System.out.println("addition of two numbers A and B is +Addition");
 		
 
 		
-		System.out.println("Subtraction of two numbers A and B is +subaa");
+		System.out.println("Subtraction of two numbers A and B is +Subtraction");
+
 
 
 	}
